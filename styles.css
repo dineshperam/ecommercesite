@@ -5,3 +5,25 @@
 .navbar-brand{
     width: 4%;
 }
+.navbar{
+    background-color:blueviolet;
+}
+.nav-link{
+    color: rgb(0, 0, 0);
+    font-weight:600;
+    font-size:18px ;
+}
+.bgimg{
+    background-image: url('/images/bg.jpg');
+    height: 90vh;
+    width: 98vw;
+    background-position: center;
+    background-size:contain;
+    /* background-repeat: no-repeat; */
+}
+.d-block{
+    aspect-ratio: 3/2;
+}
+.apara{
+    font-size: 20px;
+}
