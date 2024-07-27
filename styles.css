@@ -7,6 +7,10 @@
 }
 .navbar{
     background-color:blueviolet;
+    width: 100vw;
+}
+.mainpage{
+    vertical-align: middle;
 }
 .nav-link{
     color: rgb(0, 0, 0);
@@ -16,14 +20,20 @@
 .bgimg{
     background-image: url('/images/bg.jpg');
     height: 90vh;
-    width: 98vw;
-    background-position: center;
-    background-size:contain;
+    width: 100vw;
+    /* background-position:; */
+    background-size:cover;
     /* background-repeat: no-repeat; */
-}
+}   
 .d-block{
     aspect-ratio: 3/2;
 }
 .apara{
     font-size: 20px;
+}
+.card-title{
+    color: blue;
+}
+.card-text{
+    color: rgb(0, 0, 0);
 }
