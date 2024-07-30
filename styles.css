@@ -37,3 +37,25 @@
 .card-text{
     color: rgb(0, 0, 0);
 }
+.fbgimg{
+    background-color: black;
+}
+.fhead{
+    text-decoration:solid #fff;
+    color: #fff;
+}
+.ffour h6{
+    color: #fff;
+}
+.ficons{
+    text-align: center;
+    padding: 1%;
+}
+.ficons i{
+    color: #fff;
+    font-size: 29px;
+    padding: 2%;
+}
+.ficons i:hover{
+    color: yellow;
+}
